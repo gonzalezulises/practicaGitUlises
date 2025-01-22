@@ -165,7 +165,7 @@ git merge --no-ff title
 - `git checkout main` cambia a la rama `main`.
 - `git stash apply` aplica los cambios stasheados al working copy sin eliminar el stash.
 
-  Para el desarrollo de la práctica utilicé:
-  consola: warp v0.2025.01.15.08.02.stable_03
-  soporte de IA: Venice AI - Safari 18.2 (20620.1.16.11.8)
-  formato de markdown: chatGPT
+- Para el desarrollo de la práctica utilicé:
+* consola: warp v0.2025.01.15.08.02.stable_03
+* soporte de IA: Venice AI - Safari 18.2 (20620.1.16.11.8)
+* formato de markdown: chatGPT
